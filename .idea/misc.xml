@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/index-gather-store-service/pom.xml" />
+        <option value="$PROJECT_DIR$/index-gather-store-service/pom.xml" />
+        <option value="$PROJECT_DIR$/index-codes-service/pom.xml" />
+        <option value="$PROJECT_DIR$/index-data-service/pom.xml" />
+        <option value="$PROJECT_DIR$/index-zuul-service/pom.xml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service/pom.xml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

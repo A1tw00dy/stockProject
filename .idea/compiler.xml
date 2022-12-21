@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="index-zuul-service" />
+        <module name="trend-trading-backtest-view" />
+        <module name="index-codes-service" />
+        <module name="third-part-index-data-project" />
+        <module name="index-data-service" />
+        <module name="trend-trading-backtest-service" />
+        <module name="eureka-server" />
+        <module name="index-gather-store-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="index-codes-service" target="1.8" />
+      <module name="index-data-service" target="1.8" />
+      <module name="index-gather-store-service" target="1.8" />
+      <module name="index-zuul-service" target="1.8" />
+      <module name="third-part-index-data-project" target="1.8" />
+      <module name="trend-trading-backtest-service" target="1.8" />
+      <module name="trend-trading-backtest-view" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
